@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_profile_width">90dp</dimen>
+    <dimen name="activityPadding">16dp</dimen>
+    <dimen name="placeholderImage">60dp</dimen>
+    <dimen name="placeholderNameHeight">28dp</dimen>
+    <dimen name="placeholderNameWidth">190dp</dimen>
+    <dimen name="placeholderTextHeight">28dp</dimen>
+    <dimen name="placeholderTextWidth">34dp</dimen>
+
+
+    <!--    Myself PlaceHolder-->
+    <dimen name="shimmerNameWidth">184dp</dimen>
+    <dimen name="shimmerTextWidth">74dp</dimen>
+    <dimen name="shimmerTextHeight">24dp</dimen>
+</resources>
