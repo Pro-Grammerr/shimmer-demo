@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mShimmerViewContainer = findViewById(R.id.shimmer_view_container);
+
+        mShimmerViewContainer.startShimmerAnimation();
     }
 
     @Override
