@@ -13,10 +13,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="15dp"
-        android:orientation="vertical"
-        >
-        <include layout="@layout/shimmer_layout"/>
+        android:orientation="vertical">
 
+        <include layout="@layout/shimmer_layout"/>
     </com.facebook.shimmer.ShimmerFrameLayout>
 
   </RelativeLayout>
